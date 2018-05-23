@@ -6,10 +6,6 @@
            xmlns:fx="http://javafax.com/fxml">
     <Button text="Button ONE" style="-fx-background-color: red"/>
         <Label text="The Label" style="-fx-background-color: green"/>
-
-
-
-
 </StackPane>
 
 
